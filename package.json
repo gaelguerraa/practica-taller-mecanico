@@ -1,9 +1,10 @@
 {
-  "name": "practica-restaurante",
+  "name": "practica-taller-mecanico",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prisma:format": "prisma format",
+    "prisma:validate": "prisma validate"
   },
   "keywords": [],
   "author": "",
